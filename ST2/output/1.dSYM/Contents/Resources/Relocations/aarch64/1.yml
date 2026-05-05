@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/agrimjoshi/Code/C_Practice/ST2/output/1'
+relocations:     []
+...
