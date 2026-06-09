@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/agrimjoshi/Code/C_Practice/Endsem/output/m2'
+relocations:     []
+...
